@@ -20,6 +20,7 @@ Three Key Differences between weather in June and December
 
 June Weather Data:
 ![June Weather Data](https://github.com/CorinneBean/surfs_up/blob/865804053acf6295b9a35000b63204a251aa91b5/Resources/June%20Weather.png "June Weather Data")
+
 December Weather Data:
 ![December Weather Data](https://github.com/CorinneBean/surfs_up/blob/865804053acf6295b9a35000b63204a251aa91b5/Resources/December%20Weather.png "December Weather Data")
 
