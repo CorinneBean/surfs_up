@@ -18,5 +18,8 @@ Three Key Differences between weather in June and December
 - Max temperature recorded in June was 85 vs 83 in December.
 - The minimum temperature in June was 64 vs 56 in December.
 
+![June Weather Data](https://github.com/CorinneBean/surfs_up/blob/865804053acf6295b9a35000b63204a251aa91b5/Resources/June%20Weather.png "June Weather Data")
+
+![December Weather Data](https://github.com/CorinneBean/surfs_up/blob/865804053acf6295b9a35000b63204a251aa91b5/Resources/December%20Weather.png "December Weather Data")
 ## Summary
 The data reviewed gave us a general understanding of what the weather would be like in the months of June and December. While this information is generally helpful to the shop owner to determine if they should open their shop in Oahu. It doesn't provide a full picture and additional queries would be recommended to look at different weather conditions during that time frame. Weather conditions such as precipitation can affect customer traffic so this would be important information to review. 
