@@ -4,7 +4,7 @@
 The purpose of this project was to review data related to temperature for the months of June and December in Oahu, Hawaii. This data will be used by a local surf shop to determine weather trends prior to opening.
 
 Steps taken to complete the analysis:
-1. Filter the date column of the Measurements table using Python, Pandas and SQLAlchemy in the hawaii.sqlite database to retrieve all the temperatures for the month of June. The temperatures will then be converted to a list in order to create a Dataframe from the list which will then be used to generate the summary statistics.
+1. Filter the date column of the Measurements table using Python, Pandas and SQLAlchemy in the [hawaii.sqlite](https://github.com/CorinneBean/surfs_up/blob/28a3a5e360f3189a7d0a167f9c93462e367e6e79/hawaii.sqlite) database to retrieve all the temperatures for the month of June. The temperatures will then be converted to a list in order to create a Dataframe from the list which will then be used to generate the summary statistics.
 
 2. Filter the date column of the Measurements table using Python, Pandas and SQLAlchemy in the [hawaii.sqlite](https://github.com/CorinneBean/surfs_up/blob/28a3a5e360f3189a7d0a167f9c93462e367e6e79/hawaii.sqlite) database to retrieve all the temperatures for the month of December. The temperatures will then be converted to a list in order to create a Dataframe from the list which will then be used to generate the summary statistics.
 
